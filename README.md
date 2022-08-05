@@ -36,6 +36,6 @@ The [Joanna Hardy File](/joanna/README.md)
 
 ## Silly Song Website 🔴
 
-Not sure what exactly this website is yet.
+Website that is widely regarded as a troll.
 
 Guide to the [Silly Song Website](/whatthissillysongshows/README.md)

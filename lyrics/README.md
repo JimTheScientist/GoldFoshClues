@@ -109,7 +109,7 @@ After the video:
 
 > Note: after the line 'And that's beyond a fact', in the video, the fish turns around. This could indicate that the last 4 lines should be read in reverse, thus stating that you shouldn't do anything in the last 4 lines other than 'copy what [the] silly song shows'
 
-## Monkey
+## Object in the piano
 
 Common misconception: There is also a monkey in the bottom right corner.
 

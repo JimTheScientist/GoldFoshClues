@@ -1,5 +1,6 @@
 # Lyrics
 
+```
 "In the name of Max Fosh, dish out the fish"
 
 That’s all you need to spout
@@ -25,5 +26,6 @@ Post on TikTok videos?
 No need to spam or guess or stir things up
 
 Just copy what this silly song shows
+```
 
-`Note: the words 'song' and 'silly' are switched on the last line. The above lyrics correspond to the words Max said.`
+> Note: the words 'song' and 'silly' are switched on the last line. The above lyrics correspond to the words Max said.

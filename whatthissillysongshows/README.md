@@ -2,6 +2,8 @@
 
 This is a website that is pending verification as a legitimate source.
 
+It appears to **not** be legitimate, according to a moderator.
+
 [Silly Song Website](https://whatthissillysongshows.com/)
 
 ## Hidden Text

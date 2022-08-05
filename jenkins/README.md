@@ -2,7 +2,7 @@
 
 The piano player in the video.
 
-## DM on 
+## DM
 
 Responds with the following:
 

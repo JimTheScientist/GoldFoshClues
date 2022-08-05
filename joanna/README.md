@@ -1,4 +1,4 @@
-# Joanna Hardy
+# Joanna Hardy 🟡
 
 A jewelry specialist who Max invited to value the **goldfosh**. She estiamted it to be in the **Five Digits**.
 

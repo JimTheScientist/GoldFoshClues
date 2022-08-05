@@ -22,6 +22,12 @@ The YouTouber that plays the piano in the video.
 
 The [Joe Jenkins File](/jenkins/README.md)
 
+## Joanna Hardy
+
+A jewelry specialist who Max invited to value the goldfosh.
+
+The [Joanna Hardy File](/joanna/README.md)
+
 ## Silly Song Website
 ```NOW A CONFIRMED RED HERRING 🛑```
 

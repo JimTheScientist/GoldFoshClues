@@ -4,9 +4,9 @@ The [GoldFosh Video](https://www.youtube.com/watch?v=gXzD4p3TR2A)
 
 A [Video Transcript](/videotranscript/README.md)
 
-## Lyrics
+## Lyrics + Video Analysis
 
-The lyrics used in the can be found below, and links to clues will be below each line. 
+The lyrics used in the can be found below, and links to clues will be below each line. Also a quite detailed anylsis of the video can also be found.
 
 The [Lyrics File](/lyrics/README.md)
 

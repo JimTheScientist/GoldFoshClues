@@ -2,7 +2,7 @@
 
 The [GoldFosh Video](https://www.youtube.com/watch?v=gXzD4p3TR2A)
 
-A [Video Transcript](/videostranscript/README.md)
+A [Video Transcript](/videotranscript/README.md)
 
 ## Lyrics
 

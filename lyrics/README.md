@@ -16,7 +16,7 @@ Let the direction of the goldfosh, when the clue starts *i.e.* to the right of t
 ```
 Troutangle ≈225°
 
-On the word **fosh**:
+On the end of the word **fosh**:
 
 1. The video **cuts** (or rather zooms) into a more zoomed prespective.
 2. 2 + 1 button hidden by the subtitles can be seen.

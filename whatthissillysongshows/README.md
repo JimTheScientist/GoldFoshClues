@@ -20,5 +20,5 @@ They spell out 'IS YOUR FRIEND HERE'
 
 The domain info can be seen below:
 
-![image](https://user-images.githubusercontent.com/28175652/183035705-0b9fb7ea-ce60-4fd0-b9ad-e6cfb07a8f0f.png)
+![image](https://user-images.githubusercontent.com/28175652/183035919-30a369e7-ce6e-4372-83da-51643d7dd64a.png)
 

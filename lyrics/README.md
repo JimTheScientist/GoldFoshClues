@@ -1,9 +1,13 @@
 # Lyrics + (Lyrical Video)
 
+## Analysis
+
 Let the direction of the goldfosh, when the clue starts *i.e.* to the right of the screen be 180°. Rest of the measurements said in this video will be based upon this axiom.
 
-Max is holding the trout with his **left** hand.
-Max has his right hand in his pocket.
+1. Max is holding the trout with his **left** hand.
+2. Max has his right hand in his pocket.
+3. He has a silver watch on his left hand.
+4. 5 + 1 on his cuff; [see more here](https://in.pinterest.com/pin/361625045086158560/) buttons on his shirt are visible.
 
 ![image](https://user-images.githubusercontent.com/90586416/183064861-a3794602-8d6a-4a53-9991-13ae92944004.png)
 
@@ -12,6 +16,10 @@ Max has his right hand in his pocket.
 ```
 Troutangle ≈225°
 
+On the word **fosh**:
+
+1. The video **cuts** (or rather zooms) into a more zoomed prespective.
+2. 2 + 1 button hidden by the subtitles can be seen.
 ```
 That’s all you need to spout
 ```
@@ -40,6 +48,7 @@ On the word: **trout**
 1. The video **cuts** and the golfosh is now being held with his **right** hand and being only touched by the left. It looks like the goldfosh has been transferred from one hand to another.
 2. His watch disappears.
 3. The trout seems to be at ≈265°
+4. 4 + 1 button hidden by the subtitles + 2 on his cuff can be seen.
 
 ![image](https://user-images.githubusercontent.com/90586416/183068986-793e1d9d-0888-4fd9-8509-1209c6c1f01c.png)
 
@@ -99,3 +108,8 @@ After the video:
 > Note: the words 'song' and 'silly' are switched on the last line on the subtitles. The above lyrics correspond to the words Max said.
 
 > Note: after the line 'And that's beyond a fact', in the video, the fish turns around. This could indicate that the last 4 lines should be read in reverse, thus stating that you shouldn't do anything in the last 4 lines other than 'copy what [the] silly song shows'
+
+## Monkey
+
+There is also a monkey in the bottom right corner.
+![image](https://user-images.githubusercontent.com/90586416/183072221-6db58bda-dd92-450d-b06e-e4883855707e.png)

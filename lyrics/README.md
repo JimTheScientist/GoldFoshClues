@@ -109,6 +109,8 @@ After the video:
 
 > Note: after the line 'And that's beyond a fact', in the video, the fish turns around. This could indicate that the last 4 lines should be read in reverse, thus stating that you shouldn't do anything in the last 4 lines other than 'copy what [the] silly song shows'
 
+> Note: Troutangle is a very odd theory. It is suspicious that video is cut 3 times (4 clips from 2 or 3 videos), but it does not necessarily mean anything specific right now.
+
 ## Object in the piano
 
 Common misconception: There is also a monkey in the bottom right corner.

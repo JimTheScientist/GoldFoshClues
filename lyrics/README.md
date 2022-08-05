@@ -53,4 +53,5 @@ Just copy what this silly song shows
 ```
 
 > Note: the words 'song' and 'silly' are switched on the last line. The above lyrics correspond to the words Max said.
+
 > Note: after the line 'And that's beyond a fact', in the video, the fish turns around. This could indicate that the last 4 lines should be read in reverse, thus stating that you shouldn't do anything in the last 4 lines other than 'copy what [the] silly song shows'

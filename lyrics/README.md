@@ -41,6 +41,7 @@ On the word: **trout**
 2. His watch disappears.
 3. The trout seems to be at ≈265°
 
+![image](https://user-images.githubusercontent.com/90586416/183068986-793e1d9d-0888-4fd9-8509-1209c6c1f01c.png)
 
 ```
 Neighbour on the bus or a dear old queen
@@ -67,6 +68,8 @@ On the word: **fact**
 1. The video **cuts** and the golfosh is now being held with his **left** hand, with no support from its left.
 2. The goldfish is now inverted, *i.e.* by our axiom, at ≈0°
 3. His watch is still gone
+
+![image](https://user-images.githubusercontent.com/90586416/183069049-d69b1c2a-1952-4554-bf6b-5916b4e904db.png)
 
 ```
 Dance in a crazy way, use a squeaky voice

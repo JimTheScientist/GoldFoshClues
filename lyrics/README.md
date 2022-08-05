@@ -111,5 +111,7 @@ After the video:
 
 ## Monkey
 
-There is also a monkey in the bottom right corner.
+Common misconception: There is also a monkey in the bottom right corner.
+
+This is just a piano hinge.
 ![image](https://user-images.githubusercontent.com/90586416/183072221-6db58bda-dd92-450d-b06e-e4883855707e.png)

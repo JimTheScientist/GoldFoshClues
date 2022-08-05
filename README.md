@@ -19,3 +19,9 @@ The [Piano Lead](/piano/README.md)
 The YouTouber that plays the piano in the video.
 
 The [Joe Jenkins File](/jenkins/README.md)
+
+## Silly Song Website
+
+Not sure what exactly this website is yet.
+
+The [Silly Song Website](/whatthissillysongsays/README.md)

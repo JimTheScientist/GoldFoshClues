@@ -56,3 +56,5 @@ There seems to be some confusion around how to find the fish. In general, the co
  - Looking in a real location is not going to be a part of the hunt. A real location may be relevant, but you do not need to travel there.
  - Spamming random people "In the name of Max Fosh, Dish out the Fish" is not going to work, even though many believe we are looking for a person.
  - Calling random people does not make sense. They must be related to some clue in the video.
+
+![image](https://user-images.githubusercontent.com/28175652/183149986-93b71f28-ed92-4e4b-8dd3-ae06fdafb06f.png)

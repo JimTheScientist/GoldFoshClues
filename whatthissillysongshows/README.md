@@ -1,4 +1,4 @@
-# Silly Song Website
+# Silly Song Website 🔴
 
 This is a website that is pending verification as a legitimate source.
 

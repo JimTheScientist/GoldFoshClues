@@ -23,6 +23,7 @@ The YouTouber that plays the piano in the video.
 The [Joe Jenkins File](/jenkins/README.md)
 
 ## Silly Song Website
+```NOW A CONFIRMED RED HERRING 🛑```
 
 Not sure what exactly this website is yet.
 

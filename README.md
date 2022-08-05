@@ -4,6 +4,8 @@ The [GoldFosh Video](https://www.youtube.com/watch?v=gXzD4p3TR2A)
 
 ## Lyrics
 
+The lyrics used in the can be found below, and links to clues will be below each line. 
+
 The [Lyrics File](/lyrics/README.md)
 
 ## Piano

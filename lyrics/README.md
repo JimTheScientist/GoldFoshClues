@@ -6,7 +6,7 @@ Let the direction of the goldfosh, when the clue starts *i.e.* to the right of t
 
 1. Max is holding the trout with his **left** hand.
 2. Max has his right hand in his pocket.
-3. He has a silver watch on his left hand.
+3. He has a silver watch on his left hand ([see more about the watch here](/lyrics/watch.md)).
 4. 5 + 1 on his cuff; [see more here](https://in.pinterest.com/pin/361625045086158560/) buttons on his shirt are visible.
 
 ![image](https://user-images.githubusercontent.com/90586416/183064861-a3794602-8d6a-4a53-9991-13ae92944004.png)

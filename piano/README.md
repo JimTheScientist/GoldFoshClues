@@ -1,4 +1,4 @@
-# Piano Lead
+# Piano Lead 🟡
 
 The text "Chappell" can be seen on the side of the piano.
 

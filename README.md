@@ -39,3 +39,20 @@ The [Joanna Hardy File](/joanna/README.md)
 Website that is widely regarded as a troll.
 
 Guide to the [Silly Song Website](/whatthissillysongshows/README.md)
+
+# Misconceptions
+
+Clearing up some misconceptions:
+
+ - A red herring is a real clue intended to mislead people. As far as I am aware, these don't really exist.
+ - A dead lead is like a red herring, but created by the hunters. This likely includes Joe Jenkins message.
+ - A troll is a clue made by someone who is not related to the hunt.
+
+## Where is the fish?
+
+There seems to be some confusion around how to find the fish. In general, the community has some specific loose rules:
+
+ - Do not use random leads that came from somewhere other than the main video
+ - Looking in a real location is not going to be a part of the hunt. A real location may be relevant, but you do not need to travel there.
+ - Spamming random people "In the name of Max Fosh, Dish out the Fish" is not going to work, even though many believe we are looking for a person.
+ - Calling random people does not make sense. They must be related to some clue in the video.

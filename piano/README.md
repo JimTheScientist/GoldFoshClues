@@ -2,6 +2,8 @@
 
 The text "Chappell" can be seen on the side of the piano.
 
+The word "chappell" is an obsolete form of the word "chapel", which means a small building or room where Christians go to pray, attend religious services, etc. in a school, prison, large private house, etc. ([See more here](https://www.oxfordlearnersdictionaries.com/definition/english/chapel?q=chapel "Oxford Dictionary for 'chapel'"))
+
 ![image](https://user-images.githubusercontent.com/28175652/183033160-31da62cd-d97a-4420-8578-d11fdf234ada.png)
 
 A few quick observations lead to the discovery of [this website's piano listing](https://pianoz.com/piano-sale/piano/chappell-fully-restored-0).

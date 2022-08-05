@@ -9,3 +9,5 @@ A few quick observations lead to the discovery of [this website's piano listing]
 A quick comparison can show that the piano is the same.
 
 Visiting the instagram of the store confirms that this was the piano used in the video.
+
+The video may have even been filmed in the same room as the listing.
